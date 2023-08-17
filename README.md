@@ -49,10 +49,10 @@ Followers can arrive at your account in about 10 minutes to 30 minutes. The proc
 ### Why does login fail?
 
 - Make sure the Instagram account is logged in and click "IT WAS ME" if it says locked then try again.
-- You must use airplane mode before logging in.
-- Change the password before logging in or if you keep getting the wrong password.
 - Maybe you entered the wrong username or password.
 - Please change your Instagram account if the problem occurs repeatedly.
+- You must use airplane mode before logging in.
+- Change the password before logging in or if you keep getting the wrong password.
 
 ### Lost Instagram account?
 
