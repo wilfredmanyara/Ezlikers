@@ -80,6 +80,12 @@ Followers can arrive at your account in about 10 minutes to 30 minutes. The proc
 - You can use a phone number to sign up for an Instagram account.
 - The Instagram account must have a phone number, email and profile photo.
 
+### Follower waiting time?
+
+- If it says you've run out of credit, you can wait 30 minutes to get followers.
+- Every 10 minutes you will get followers if the credits are met.
+- If you run out of credit you can use another new Instagram account.
+
 ### Why do followers drop?
 
 - [Why am I seeing a change in the number of likes, follows or comments on Instagram?](https://help.instagram.com/572730176521116/?helpref=search&query=Mengapa%20saya%20melihat%20ada%20perubahan%20jumlah%20suka%2C%20ikuti%2C%20atau%20komentar%20di%20Instagram%3F&search_session_id=&sr=1).
