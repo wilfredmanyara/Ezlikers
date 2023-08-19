@@ -83,7 +83,6 @@ Followers can arrive at your account in about 10 minutes to 30 minutes. The proc
 ### Follower waiting time?
 
 - If it says you've run out of credit, you can wait 30 minutes to get followers.
-- Every 10 minutes you will get followers if the credits are met.
 - If you run out of credit you can use another new Instagram account.
 
 ### Why do followers drop?
