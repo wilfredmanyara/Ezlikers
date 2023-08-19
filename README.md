@@ -57,9 +57,9 @@ Followers can arrive at your account in about 10 minutes to 30 minutes. The proc
 
 ### Lost Instagram account?
 
+- Instagram can block your password so you need to reset the password.
 - Change the password after accessing this script to avoid related accounts on the website.
 - Don't use the main Instagram account or the original Instagram account.
-- It's possible that Instagram has blocked the Instagram account password because you logged in to the auto followers website using the old version of API.
 
 ### Only a few followers arrived?
 
