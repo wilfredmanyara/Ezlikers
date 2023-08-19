@@ -50,6 +50,7 @@ Followers can arrive at your account in about 10 minutes to 30 minutes. The proc
 
 - Make sure the Instagram account is logged in and click "IT WAS ME" if it says locked then try again.
 - Maybe you entered the wrong username or password.
+- You can manually log in on the website **"https://instamoda.org/"** then re-login in Termux.
 - You must use airplane mode before logging in.
 - Please change your Instagram account if the problem occurs repeatedly.
 - Change the password before logging in or if you keep getting the wrong password.
