@@ -17,12 +17,12 @@
 ##
 
 ### What is Ezlikers?
-[**Ezlikers**](https://github.com/RozhakXD/Ezlikers) is a script to get lots of followers once submitted. You can get up to 300 followers for one submission. You don't need to do missions to trade followers.
+[**Ezlikers**](https://github.com/wilfredmanyara/Ezlikers) is a script to get lots of followers once submitted. You can get up to 300 followers for one submission. You don't need to do missions to trade followers.
 
 This script was created with the aim of getting lots of followers on an Instagram account and this script was created on the basis of using three free follower provider websites from Turkey.
 
 ### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this script and for how to use it can be seen on [**Youtube**](https://youtu.be/3ZtuiDx3vtI). Then you enter some basic commands below!
+First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this script and for how to use it can be seen on [**Youtube**](https://www.youtube.com/). Then you enter some basic commands below!
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
@@ -50,7 +50,7 @@ Followers can arrive at your account in about 10 minutes to 30 minutes. The proc
 
 - Make sure the Instagram account is logged in and click "IT WAS ME" if it says locked then try again.
 - Maybe you entered the wrong username or password.
-- You can manually log in on the website **"https://instamoda.org/"** then re-login in Termux.
+- You can manually log in on the website **"https://www.youtube.com/"** then re-login in Termux.
 - You must use airplane mode before logging in.
 - Please change your Instagram account if the problem occurs repeatedly.
 - Change the password before logging in or if you keep getting the wrong password.
