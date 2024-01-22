@@ -1,6 +1,6 @@
-__author__ = 'RozhakXD'
+__author__ = 'wilfredmanyara'
 __madeBy__ = 'Love'
-__git__ = 'https://github.com/RozhakXD'
+__git__ = 'https://github.com/wilfredmanyara'
 
 # Obfuscated with Love
 
